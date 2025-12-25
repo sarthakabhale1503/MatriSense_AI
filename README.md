@@ -93,14 +93,18 @@ A synthetic maternal health dataset is used for AI risk prediction, including:
 ---
 
 ## 📸 Screenshots
+![WhatsApp Image 2025-12-13 at 21 09 03_606434bb](https://github.com/user-attachments/assets/e57ec229-8910-4753-8f06-78c0c4306e8e)
+![WhatsApp Image 2025-12-13 at 21 09 08_845624ce](https://github.com/user-attachments/assets/d4a9163c-7a10-4858-8501-a14468363a54)
+![WhatsApp Image 2025-12-13 at 21 09 05_11e0d107](https://github.com/user-attachments/assets/68877504-73e0-4489-95d9-883a4e3969de)
 
-Screenshots of the ASHA dashboard, mother profile, risk assessment, and ANC tracker are available in the `docs/screenshots/` folder.
+
+
 
 ---
 
 ## 👥 Team
 
-Hackathon Project by **MatriSense AI Team**
+Hackathon Project by **NextGen Minds**
 
 ---
 
