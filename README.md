@@ -71,7 +71,7 @@ MatriSense AI provides:
 - City-wide maternal health heatmaps
 
 
-##WhatsApp Image 2025-12-13 at 21.09.03_606434bb.jpg
+![System Architecture](images/WhatsApp Image 2025-12-13 at 21.09.03_606434bb.jpg)
 ---
 
 ## 👥 Team
