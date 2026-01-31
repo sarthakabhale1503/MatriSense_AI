@@ -1,113 +1,77 @@
-# MatriSense AI 🩺🤰
+# MatriSense AI – Intelligent Maternal Health Monitoring System
 
-**MatriSense AI** is an AI-powered maternal healthcare application designed to support **ASHA workers** and **expecting mothers** by enabling early risk detection, digital health tracking, and continuous pregnancy guidance, especially in rural and underserved areas.
+MatriSense AI is an AI-powered maternal health monitoring platform designed to support
+ASHA workers and healthcare authorities in ensuring continuous, risk-based care
+for mothers before and after delivery.
 
----
-
-## 🚩 Problem Statement
-
-Maternal health monitoring in rural areas is often manual, fragmented, and delayed. ASHA workers rely on paper records, making it difficult to track ANC visits, identify high-risk pregnancies early, and provide timely guidance. Expecting mothers lack continuous access to reliable pregnancy information and reminders, increasing health risks.
-
----
-
-## 💡 Solution
-
-MatriSense AI digitizes maternal healthcare by providing a **dual-login mobile application** for ASHA workers and mothers. The app captures health data, performs AI-based risk assessment, schedules ANC visits, and delivers personalized health tips through notifications and an AI chatbot.
+Developed as part of the SAMVED Hackathon 2026 for
+Solapur Municipal Corporation.
 
 ---
 
-## 👩‍⚕️ ASHA Worker Features
-
-- Mother profile creation & management  
-- Health measurements entry (BP, Hb, Sugar, Weight, BMI)
-- Automatic pregnancy week calculation
-- AI-based risk assessment (Low / Medium / High)
-- ANC checkup tracker (ANC 1–4)
-- Visit & reminder scheduler
-- Send health, nutrition & yoga tips
-- Emergency alert identification
-- Village-level monitoring dashboard
+## 🚨 Problem Statement
+Maternal health monitoring in public healthcare systems faces challenges such as:
+- Missed ANC and postnatal visits
+- Limited early risk detection
+- Manual record keeping by ASHA workers
+- Lack of data-driven planning at ward and city levels
 
 ---
 
-## 🤰 Mother Features
-
-- Pregnancy progress tracking
-- ANC and appointment reminders
-- Personalized health, nutrition & yoga tips
-- Risk awareness notifications
-- AI chatbot for 24×7 pregnancy guidance
-- Simple and easy-to-use interface
-
----
-
-## 🤖 AI & Smart Features
-
-- Rule-based + ML risk prediction
-- Explains reasons for high risk (e.g., low Hb, high BP)
-- Smart reminders & alerts
-- Conversational AI chatbot for maternal guidance
+## 💡 Proposed Solution
+MatriSense AI provides:
+- AI-based maternal risk classification (Low / Medium / High)
+- Dual dashboards for ASHA workers and mothers
+- Automated reminders and follow-up alerts
+- Multilingual, offline-first mobile experience
+- Continuous monitoring from pregnancy to post-pregnancy
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend:** Flutter  
-- **Backend:** Firebase  
-- **AI / ML:** Python  
-- **Database:** Firebase Firestore  
-- **Design:** Figma-inspired soft UI  
-
----
-
-## 📊 Dataset
-
-A synthetic maternal health dataset is used for AI risk prediction, including:
-- Blood pressure
-- Hemoglobin
-- Blood sugar
-- Weight & BMI
-- Pregnancy week
-- Danger symptoms
+## 🧠 Key Features
+- Digital vitals tracking (BP, Hb, Sugar, Weight)
+- AI-based risk stratification
+- ANC & postnatal visit reminders
+- Emergency symptom awareness
+- Ward-wise maternal risk visibility (for municipal planning)
 
 ---
 
-## 🎯 Impact & Benefits
+## 🔧 Technical Approach
+- ML Model: Interpretable Machine Learning (Random Forest)
+- Backend: Flask-based REST API
+- Frontend: Dual dashboards (ASHA Worker & Mother)
+- Data Source: Public maternal datasets for prototyping +
+  planned local data collection via doctors and ASHA workers
+- Accessibility: English, Hindi, Marathi
+- Offline-first data capture with auto-sync
 
-- Early identification of high-risk pregnancies  
-- Reduced maternal and infant health risks  
-- Improved efficiency of ASHA workers  
-- Increased awareness among expecting mothers  
-- Digital transformation of rural healthcare  
+---
+
+## 📊 Impact
+- Expected time efficiency gains for ASHA workers (based on mHealth studies)
+- Reduced missed ANC and postnatal visits
+- Early identification of high-risk pregnancies
+- Improved maternal and infant health outcomes
+- Data-driven decision-making support for Solapur Municipal Corporation
+
+---
+
+## 📚 Research References
+- WHO – Digital Health Interventions for Maternal Health
+- BMJ / BMC Digital Health – mHealth in antenatal care
+- Nature Scientific Reports – ML models for pregnancy risk prediction
 
 ---
 
 ## 🚀 Future Scope
-
-- Integration with government health systems
-- Voice-based chatbot in regional languages
-- Wearable device integration
-- Doctor teleconsultation
-- Advanced AI predictive models
-
----
-
-## 📸 Screenshots
-![WhatsApp Image 2025-12-13 at 21 09 03_606434bb](https://github.com/user-attachments/assets/e57ec229-8910-4753-8f06-78c0c4306e8e)
-![WhatsApp Image 2025-12-13 at 21 09 08_845624ce](https://github.com/user-attachments/assets/d4a9163c-7a10-4858-8501-a14468363a54)
-![WhatsApp Image 2025-12-13 at 21 09 05_11e0d107](https://github.com/user-attachments/assets/68877504-73e0-4489-95d9-883a4e3969de)
-
-
-
+- Integration with municipal health dashboards
+- Advanced predictive analytics
+- Postnatal mental health monitoring
+- City-wide maternal health heatmaps
 
 ---
 
 ## 👥 Team
-
-Hackathon Project by **NextGen Minds**
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+NextGen Minds  
+SAMVED Hackathon 2026
