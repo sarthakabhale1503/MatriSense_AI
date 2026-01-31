@@ -71,8 +71,11 @@ MatriSense AI provides:
 - City-wide maternal health heatmaps
 
 
-![System Architecture](images/WhatsApp Image 2025-12-13 at 21.09.03_606434bb.jpg)
----
+## 🧩 System Architecture
+
+![System Architecture](system_architecture.jpg)
+![System Architecture](system_architecture1.jpg)
+![System Architecture](system_architecture2.jpg)
 
 ## 👥 Team
 NextGen Minds  
